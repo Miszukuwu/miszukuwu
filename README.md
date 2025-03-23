@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Miszukuwu.Miszukuwu&"  />
-
-###
-
 <img align="right" height="150" src="https://media1.tenor.com/m/3s9rEbpRr5wAAAAC/niko-oneshot.gif"  />
 
 ###
