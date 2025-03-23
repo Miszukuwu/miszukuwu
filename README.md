@@ -2,18 +2,19 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miszukuwu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20Humble%20Stats!!" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miszukuwu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Miszukuwu&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20Humble%20Stats!!" height="150" alt="stats graph"  />
+  <img height="150" src="https://media1.tenor.com/m/3s9rEbpRr5wAAAAC/niko-oneshot.gif"  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Miszukuwu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/3s9rEbpRr5wAAAAC/niko-oneshot.gif"  />
+
+<br clear="both">
 
 ###
-
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dot-net logo"  />
@@ -27,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discord.gg/6nDf4jgr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
